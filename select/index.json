@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スライムつらいむ",
+  "base_artist": "昼夜逆転",
+  "createdAt": "2026-02-28T07:53:57.605475Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スライムつらいむ",
+      "artist": "昼夜逆転",
+      "has_synced": false,
+      "path": "select/pl_01_スライムつらいむ_昼夜逆転.txt"
+    }
+  ]
+}
